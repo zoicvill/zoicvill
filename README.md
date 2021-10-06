@@ -1,6 +1,5 @@
-<head>
-  <noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1099310-9LUga" style="position:fixed; left:-999px;" alt=""/></noscript>
-  </head>
+ [](https://disk.yandex.ru/client/disk/Загрузки?idApp=client&dialog=slider&idDialog=%2Fdisk%2FЗагрузки%2Fпик.jpg)
+ [](https://mc.yandex.ru/pixel/8461891387503329752?rnd=%aw_random%)
 <header>
     <h1>Всем привет! Меня зовут Ярослав Сафронов. </h1>
  </header>
