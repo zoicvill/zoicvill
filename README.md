@@ -4,10 +4,12 @@
 ## Обо мне
 
 Мотивированный и амбициозный junior Android-разработчик.
-Готов посещать курсы повышения квалификации, митапы, конференции[.](https://mc.yandex.ru/pixel/8461891387503329752?rnd=%aw_random%)
+Готов посещать курсы повышения квалификации, митапы, конференции.
+
+Два последних приложения что я делал [ImgurViewer](https://github.com/zoicvill/ImgurViewer) и [TheCocktailGuide](https://github.com/zoicvill/TheCocktailGuide)
 
 - Клиент-сервер -
-Для отправки HTTP-запросов, использую Retrofit 2[.](https://disk.yandex.ru/client/disk/Загрузки?idApp=client&dialog=slider&idDialog=%2Fdisk%2FЗагрузки%2Fпик.jpg)
+Для отправки HTTP-запросов, использую Retrofit 2.
 - Форматы данных -
 Могу работать с любыми форматами данных. К примеру, JSON (в основном использую Gson), XML
 - Внедрение зависимостей -
