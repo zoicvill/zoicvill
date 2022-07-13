@@ -15,7 +15,7 @@
 
 - ✍ Loads a list of popular images from imgur [ImgurViewer](https://github.com/zoicvill/ImgurViewer) 
 
-- 🍸 The application helps the user to find the cocktail he is interested in [TheCocktailGuide](https://github.com/zoicvill/TheCocktailGuide)
+- 🍸 The application helps the user to find the cocktail he is interested in [MasterCocktail](https://github.com/zoicvill/MasterCocktail)
 
 - 👨‍💻 All of my projects are available at [https://github.com/zoicvill?tab=repositories](https://github.com/zoicvill?tab=repositories)
 
