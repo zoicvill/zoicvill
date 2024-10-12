@@ -22,8 +22,7 @@
 - 📫 How to reach me? - zoicvil@ya.ru
 ## Connect with me:
 <p align="left">
-<a href = "https://vk.com/mr.jcob"><img src="https://img.icons8.com/color/48/000000/vk-com.png"/></a>
-<a href = "https://t.me/Mr_Jcob"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
+
 
 </p>
 
