@@ -19,7 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zoicvill?tab=repositories](https://github.com/zoicvill?tab=repositories)
 
-- 📫 How to reach me? - zoicvil@ya.ru
 ## Connect with me:
 <p align="left">
 
